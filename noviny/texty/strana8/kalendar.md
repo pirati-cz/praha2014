@@ -1,16 +1,25 @@
 Kalendář akcí
 ---------------
 
-13. září, Piráti na Vltavě, 
-13.30 sraz na Žofíně 
+  * 13. září, Piráti na Vltavě, 
+    13.30 sraz na Žofíně 
 
-25. září, happening 
-18.00 sraz na Mariánském náměstí
+  * 24. září, předvolební akce 
+    17.00 sraz na Mariánském náměstí
 
-2. října, předvolební průvod
-17.00 sraz u Blanky na Letné
+  * 25. září, pravidelná schůze Pirátů v Praze
+    19.00 Pirátské centrum (viz níže)
 
-Všechny akce sledujte na našem webu praha.pirati.cz
+  * 2. října, předvolební průvod
+    17.00 sraz u Blanky na Letné
+
+  * 6. a 7. října, stavte se pro poslední várku volebních materiálů na roznos
+    výdej vždy v Pirátském centru až do 22.00
+
+  * 10. a 11. října, volby do zastupitelstva Prahy
+    14.00 až 22.00, 8.00 až 14.00
+
+Všechny akce sledujte na našem webu <praha.pirati.cz>
 
 Každý den máme dobrovolníky v ulicích
 

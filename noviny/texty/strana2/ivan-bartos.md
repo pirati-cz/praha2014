@@ -1,4 +1,5 @@
 Piráti v komunálních volbách
+----------------------------
 
 Pirátům letos úspěch ve volbách do Evropského parlamentu unikl skutečně o vlásek. Výsledek 4,78 % (v Praze ovšem přes 6 %!) je však posunul zase o něco blíže k takzvanému bodu “volitelnosti“. Potřebují skutečně Piráti onu dosti uměle vytvořenou hranici překračovat? Nemohou své pirátské myšlenky aplikovat zvenčí?
 
