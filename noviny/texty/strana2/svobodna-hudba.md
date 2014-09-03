@@ -37,3 +37,4 @@ postupovat, pokud se OSA i nadále snaží živnostníky šikanovat. Nebojte
 se a obraťte se s důvěrou na Piráty. Jsme na jedné lodi.
 
 -- Roman Kučera, kandidát č. 11
+-- Michaela Krausová, kandidátka č. 8
