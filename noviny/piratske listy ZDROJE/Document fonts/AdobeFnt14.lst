@@ -1,0 +1,269 @@
+%!Adobe-FontList 1.14
+%Locale:0x405
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Header15
+FamilyName:Header 15
+StyleName:Regular
+FullName:Header 15
+MenuName:Header 15
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Kublajz\Desktop\piratske listy ZDROJE\Document fonts\Header15.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:37872
+FileModTime:1387464328
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Kublajz\Desktop\piratske listy ZDROJE\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:217280
+FileModTime:1329303226
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Raleway-Bold
+FamilyName:Raleway
+StyleName:Bold
+FullName:Raleway Bold
+MenuName:Raleway
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Kublajz\Desktop\piratske listy ZDROJE\Document fonts\Raleway-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:66088
+FileModTime:1658250278
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Raleway-ExtraBold
+FamilyName:Raleway
+StyleName:ExtraBold
+FullName:Raleway ExtraBold
+MenuName:Raleway
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Kublajz\Desktop\piratske listy ZDROJE\Document fonts\Raleway-ExtraBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:66336
+FileModTime:1658250278
+WeightClass:800
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Raleway-Heavy
+FamilyName:Raleway
+StyleName:Heavy
+FullName:Raleway Heavy
+MenuName:Raleway
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Kublajz\Desktop\piratske listy ZDROJE\Document fonts\Raleway-Heavy.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:70484
+FileModTime:1658250278
+WeightClass:900
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Raleway-Light
+FamilyName:Raleway
+StyleName:Light
+FullName:Raleway Light
+MenuName:Raleway
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Kublajz\Desktop\piratske listy ZDROJE\Document fonts\Raleway-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:64488
+FileModTime:1658250278
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Raleway-Medium
+FamilyName:Raleway
+StyleName:Medium
+FullName:Raleway Medium
+MenuName:Raleway
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Kublajz\Desktop\piratske listy ZDROJE\Document fonts\Raleway-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:64776
+FileModTime:1658250278
+WeightClass:500
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Raleway-Regular
+FamilyName:Raleway
+StyleName:Regular
+FullName:Raleway
+MenuName:Raleway
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Kublajz\Desktop\piratske listy ZDROJE\Document fonts\Raleway-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:64368
+FileModTime:1658250278
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Raleway-Thin
+FamilyName:Raleway
+StyleName:Thin
+FullName:Raleway Thin
+MenuName:Raleway
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Kublajz\Desktop\piratske listy ZDROJE\Document fonts\Raleway-Thin.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:64256
+FileModTime:1658250278
+WeightClass:100
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RobotoSlab-Bold
+FamilyName:Roboto Slab
+StyleName:Bold
+FullName:Roboto Slab Bold
+MenuName:Roboto Slab
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Kublajz\Desktop\piratske listy ZDROJE\Document fonts\RobotoSlab-Bold.ttf
+DataFormat:sfntData
+FileLength:187704
+FileModTime:1367463336
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RobotoSlab-Light
+FamilyName:Roboto Slab
+StyleName:Light
+FullName:Roboto Slab Light
+MenuName:Roboto Slab
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Kublajz\Desktop\piratske listy ZDROJE\Document fonts\RobotoSlab-Light.ttf
+DataFormat:sfntData
+FileLength:195940
+FileModTime:1367463336
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RobotoSlab-Regular
+FamilyName:Roboto Slab
+StyleName:Regular
+FullName:Roboto Slab Regular
+MenuName:Roboto Slab
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Kublajz\Desktop\piratske listy ZDROJE\Document fonts\RobotoSlab-Regular.ttf
+DataFormat:sfntData
+FileLength:185848
+FileModTime:1367463336
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RobotoSlab-Thin
+FamilyName:Roboto Slab
+StyleName:Thin
+FullName:Roboto Slab Thin
+MenuName:Roboto Slab
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Kublajz\Desktop\piratske listy ZDROJE\Document fonts\RobotoSlab-Thin.ttf
+DataFormat:sfntData
+FileLength:197992
+FileModTime:1367463336
+WeightClass:250
+WidthClass:5
+AngleClass:0
+%EndFont
+
