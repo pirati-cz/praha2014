@@ -1,0 +1,108 @@
+ADOBE INDESIGN - ZPRÁVA S POKYNY PRO POSKYTOVATELE SLUŽEB
+
+NÁZEV PUBLIKACE: PIRLISTY.indd
+
+DATUM SBALENÍ: 8.9.2014 21:19
+Datum vytvoření: 8.9.2014
+Datum změny: 8.9.2014
+
+KONTAKTNÍ INFORMACE
+
+Název společnosti: 
+Kontakt: 
+Adresa: 
+
+
+
+
+
+Telefon: 
+Fax: 
+E-mail: 
+
+SPECIÁLNÍ POKYNY A DALŠÍ POZNÁMKY
+
+
+
+
+
+
+Externí zásuvné moduly 0
+Neprůhledné objekty:Na stránceNení, 1, 2, 3, 4, 5, 6, 7, 8
+
+PÍSMA
+14 Použitá písma; 0 Chybějící, 1 Vložené, 0 Nekompletní, 0 Chráněné
+
+Sbalená písma
+- Název: Arial; Typ: ???, Stav: Vložené
+- Název: Header15; Typ: OpenType Type 1, Stav: OK
+- Název: MinionPro-Regular; Typ: OpenType Type 1, Stav: OK
+- Název: Raleway-Bold; Typ: OpenType Type 1, Stav: OK
+- Název: Raleway-ExtraBold; Typ: OpenType Type 1, Stav: OK
+- Název: Raleway-Heavy; Typ: OpenType Type 1, Stav: OK
+- Název: Raleway-Light; Typ: OpenType Type 1, Stav: OK
+- Název: Raleway-Medium; Typ: OpenType Type 1, Stav: OK
+- Název: Raleway-Regular; Typ: OpenType Type 1, Stav: OK
+- Název: Raleway-Thin; Typ: OpenType Type 1, Stav: OK
+- Název: RobotoSlab-Bold; Typ: TrueType, Stav: OK
+- Název: RobotoSlab-Light; Typ: TrueType, Stav: OK
+- Název: RobotoSlab-Regular; Typ: TrueType, Stav: OK
+- Název: RobotoSlab-Thin; Typ: TrueType, Stav: OK
+
+
+BARVY A TISKOVÉ BARVY
+4 Výtažkové tiskové barvy; 0 Přímé tiskové barvy
+
+- Název a typ: Výtažková azurová; Úhel: 71,565; Řádků na palec: 63,245
+- Název a typ: Výtažková purpurová; Úhel: 18,434; Řádků na palec: 63,245
+- Název a typ: Výtažková žlutá; Úhel: 0,000; Řádků na palec: 66,666
+- Název a typ: Výtažková černá; Úhel: 45,000; Řádků na palec: 70,710
+
+
+VAZBY A OBRAZY
+(Pouze chybějící a vložené vazby)
+Vazby a obrazy: 43 Nalezené vazby; 0 Změněné, 0 Chybějící 0 Nepřístupné
+Obrazy: 0 Vložené, 39 v barevném prostoru RGB
+
+
+NASTAVENÍ TISKU
+PPD: Adobe PDF, (Adobe PDF)
+Tisk do: Tiskárna
+Počet kopií: 1
+Dvojstránky: Ne
+Liché/sudé stránky: Sudé i liché
+Stránky: Všechny
+Kontrolní tisk: Ne
+Dlaždice: Žádné
+Měřítko: 100%, 100%
+Poloha stránky: Na střed
+Tisknout vrstvy: Viditelné a tištěné vrstvy
+Tiskové značky: Žádné
+Spadávka: 0 mm, 0 mm, 0 mm, 0 mm
+Barvy: Složené CMYK
+Režim přesahů: Žádné
+Posílat obrazová data: Optimalizované převzorkování
+Nahrazování obrazů OPI/DCS: Ne
+Velikost stránky: A3
+Rozměry papíru: 209,98 mm x 297,039 mm
+Orientace: Na výšku
+Negativ: Ne
+Převrácení: Vypnuto
+
+
+SEZNAM SOUBORŮ
+
+1. PIRLISTY.indd; typ: Publikace Adobe InDesignu; velikost: 0K
+2. Header15.otf; typ: Soubor písma; velikost: 36K
+3. MinionPro-Regular.otf; typ: Soubor písma; velikost: 212K
+4. Raleway-Bold.otf; typ: Soubor písma; velikost: 64K
+5. Raleway-ExtraBold.otf; typ: Soubor písma; velikost: 64K
+6. Raleway-Heavy.otf; typ: Soubor písma; velikost: 68K
+7. Raleway-Light.otf; typ: Soubor písma; velikost: 62K
+8. Raleway-Medium.otf; typ: Soubor písma; velikost: 63K
+9. Raleway-Regular.otf; typ: Soubor písma; velikost: 62K
+10. Raleway-Thin.otf; typ: Soubor písma; velikost: 62K
+11. RobotoSlab-Bold.ttf; typ: Soubor písma; velikost: 183K
+12. RobotoSlab-Light.ttf; typ: Soubor písma; velikost: 191K
+13. RobotoSlab-Regular.ttf; typ: Soubor písma; velikost: 181K
+14. RobotoSlab-Thin.ttf; typ: Soubor písma; velikost: 193K
